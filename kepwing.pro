@@ -13,6 +13,9 @@ QMAKE_CXXFLAGS += -ggdb
 INCLUDEPATH += .
 CONFIG += release link_pkgconfig
 PKGCONFIG += libxdg-basedir 
+DESTDIR = build
+OBJECTS_DIR = build/obj
+MOC_DIR = build/moc
 
 # Input
 
