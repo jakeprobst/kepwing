@@ -1,0 +1,18 @@
+installation
+---------------------------------------
+qmake
+make
+copy kepwing wherever you like your binaries
+=======================================
+
+usage
+---------------------------------------
+ctrl+d to bring up dict list/preference window
+=======================================
+
+fifo
+---------------------------------------
+cause it was easier for me to use xbindkeys+fifo rather than figure out how to 
+make qt hijack modkeys on 2 x displays at the same time, also more customizable.
+see control.py for usage and install xsel.
+=======================================
